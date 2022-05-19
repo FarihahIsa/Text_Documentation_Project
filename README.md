@@ -4,14 +4,13 @@
 This project is to create an LSTM models to achieve accuracy above 70%.
 
 ## Notes
-( / ) Train script
+( √ ) Train script
 
-( / ) Modules script
+( √ ) Modules script
 
 Tensorboard:
+
 ![Screenshot 2022-05-19 at 3 41 01 PM](https://user-images.githubusercontent.com/103228612/169239648-04ff4d94-d918-44a6-b055-7c57231c3786.png)
-
-
 
 F1 Accuracy_score:
 
