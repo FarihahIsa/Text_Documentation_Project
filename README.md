@@ -3,7 +3,7 @@
 # Text_Documentation_Project
  
 ## Description 
-This project is to create an LSTM models to achieve accuracy above 70%.
+This project is to create an LSTM model to achieve accuracy above 70%.
 
 ## Notes
 ( √ ) Train script
